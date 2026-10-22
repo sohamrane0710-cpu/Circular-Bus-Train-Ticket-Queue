@@ -101,8 +101,8 @@ Both commands should display version information. The `javac` command must be av
 Replace the placeholder URL with your actual GitHub repository URL.
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_DIRECTORY>
+git clone git@github.com:sohamrane0710-cpu/Circular-Bus-Train-Ticket-Queue.git
+cd git@github.com:sohamrane0710-cpu/Circular-Bus-Train-Ticket-Queue.git
 ```
 
 Alternatively, download the project and open a terminal in the directory containing `TransportQueueSystem.java`.
